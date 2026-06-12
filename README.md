@@ -1,4 +1,3 @@
-[audino-demo.html](https://github.com/user-attachments/files/28878647/audino-demo.html)
 <!DOCTYPE html>
 <html lang="de">
 <head>
